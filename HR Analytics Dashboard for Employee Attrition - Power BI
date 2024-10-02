@@ -1,0 +1,20 @@
+Project Overview:
+This project focuses on HR Analytics for employee attrition, where I developed an interactive Power BI dashboard to analyze employee turnover within an organization. The dashboard provides key insights into various factors contributing to attrition, offering organizations a clear view to optimize their retention strategies.
+
+Key Metrics & Visualizations:
+Total Employees: 1470
+Attrition: 237
+Attrition Rate: 16.1%
+Average Age: 36.9 years
+Average Salary: $6.5k
+Visual Insights:
+Attrition by Age: Maximum attrition occurred in the 26-35 age group with a count of 116, followed by the 18-25 age group (44 employees).
+Attrition by Salary: Employees with salaries up to $5k faced the highest attrition (163 employees).
+Attrition by Job Role: The Lab Technician role experienced the most attrition, with 62 employees leaving.
+Attrition by Education: The Life Sciences and Medical departments held a significant portion of the overall attrition.
+Features:
+Interactive KPIs: Displaying total employees, attrition count, rate, average age, and salary.
+Visual Representation: Bar charts, pie charts, and KPIs to easily interpret the data.
+Deep Insights: Insights segmented by age, education, salary, and job role.
+This project was a great opportunity to apply data visualization techniques to a real-world HR problem, and I gained a lot of experience in understanding how data-driven insights can assist in decision-making.
+
